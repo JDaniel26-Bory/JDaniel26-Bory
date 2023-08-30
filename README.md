@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">hey there, I'm Juan Daniel</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
