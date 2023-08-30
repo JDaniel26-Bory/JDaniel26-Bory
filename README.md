@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Juan Daniel Restrepo from Medellín, Antioquia<br><br>- 🔭 I'm working on Holberton projects and personal projects.<br>- 📚 I'm currently learning Python and its framework Flask, also some of Docker.<br>- ⚡ In my free time I like to play video games and also play sports including court tennis, Also learn new skills both as soft skills and software skills.</p>
+<p align="left">I'm Juan Daniel Restrepo from Medellín, Antioquia<br><br>- :school: I'm working on Holberton projects and personal projects.<br>- 📚 I'm currently learning Python and its framework Flask, also some of Docker.<br>- ⚡ In my free time I like to play video games and also play sports including court tennis, Also learn new skills both as soft skills and software skills.</p>
 
 ###
 
